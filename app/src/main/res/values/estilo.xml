@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo para fontes ***** -->
+    <style name="fonte">
+        <item name="android:fontFamily">
+            Subheading
+        </item>
+        <item name="android:textSize">
+            20sp
+        </item>
+        <item name="android:typeface">
+            normal
+        </item>
+    </style>
+    <!-- Estilo para fontes End **** -->
+
+    <!-- Estilo para background ***** -->
+    <style name="plano">
+        <item name="android:background">
+            #D1EEEE
+        </item>
+    </style>
+    <!-- Estilo para background End ***** -->
+
+    <!-- Estilo para button ***** -->
+    <style name="botao">
+        <item name="android:background">#3299CC</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">18sp</item>
+
+    </style>
+    <!-- Estilo para button End ***** -->
+    
+</resources>

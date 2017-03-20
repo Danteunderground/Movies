@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Filmes</string>
+
+    <!-- SPLASH SCREEN -->
+    <string name="erro_api">Erro ao carregar o aplicativro. Tente novamente mais tarde</string>
+
+    <!-- TELA DE LOGIN -->
+    <string name="titulo_login">Entrar</string>
+    <string name="label_login">Nome do usuário</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_logado">Mantenha-me conectado</string>
+    <string name="label_botao_entrar">Entrar</string>
+    <string name="login_vazio">Nome do usuário não pode estar em branco</string>
+    <string name="senha_vazia">Senha não pode estar em branco</string>
+    <string name="erro_usuario">Erro ao entrar. Tente novamente mais tarde</string>
+    <string name="erro_login">Nome do usuário or senha estão incorretos. Tente novamente mais tarde</string>
+
+    <!-- TELA DASHBOARD -->
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="lista_vazia">Você não têm nenhum filme registrado :(</string>
+    <string name="sucesso_deleta">Filme apagado com sucesso</string>
+
+    <!-- MENU -->
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="nav_novo_restaurante">Novo filme</string>
+    <string name="nav_sobre">Sobre o aplicativo</string>
+    <string name="nav_sair">Sair</string>
+    <string name="menu_editar">Editar</string>
+    <string name="menu_deletar">Apagar</string>
+
+    <!-- TELA SOBRE -->
+    <string name="titulo_sobre">Sobre o aplicativo</string>
+    <string name="nome_dev">Luiz Valdemar</string>
+
+    <!-- TELA FORM -->
+    <string name="titulo_form">Filmes adicionados</string>
+    <string name="lb_form_name">Qual o nome do filme?</string>
+    <string name="erro_name">Nome do filme não preenchido</string>
+    <string name="lb_form_rating">Qual a nota?</string>
+    <string name="erro_rating">Nota não preenchida</string>
+    <string name="lb_form_duration">Qual a duração?</string>
+    <string name="erro_duration">Duração não preenchida</string>
+    <string name="sucesso_form">Filme adicionado com sucesso</string>
+    <string name="sucesso_edita_form">Filme atualizado com sucesso</string>
+
+    <string name="action_settings">Configurações</string>
+</resources>

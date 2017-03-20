@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- SPLASH SCREEN -->
+    <string name="erro_api">Error while load application. Try again later</string>
+
+    <!-- TELA DE LOGIN -->
+    <string name="titulo_login">Log in</string>
+    <string name="label_login">Username</string>
+    <string name="label_senha">Password</string>
+    <string name="label_logado">Keep me logged in</string>
+    <string name="label_botao_entrar">Sign in</string>
+    <string name="login_vazio">Username can\'t be blank</string>
+    <string name="senha_vazia">Password can\'t be blank</string>
+    <string name="erro_usuario">Error while sign in. Try again later</string>
+    <string name="erro_login">Username or password are incorrect. Try again later</string>
+
+    <!-- TELA DASHBOARD -->
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="lista_vazia">You don\'t have any registered movies!</string>
+    <string name="sucesso_deleta">Movie deleted successfully</string>
+
+    <!-- MENU -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_salvar">Save</string>
+    <string name="nav_novo_restaurante">New movie</string>
+    <string name="nav_sobre">About the app</string>
+    <string name="nav_sair">Log out</string>
+    <string name="menu_editar">Edit</string>
+    <string name="menu_deletar">Delete</string>
+
+    <!-- TELA SOBRE -->
+    <string name="titulo_sobre">About the app</string>
+    <string name="nome_dev">Luiz Valdemar</string>
+
+    <!-- TELA FORM -->
+    <string name="titulo_form">Movie form</string>
+    <string name="lb_form_name">Movie\'s name</string>
+    <string name="erro_name">Movie\'s name can\'t be blank</string>
+    <string name="lb_form_rating">What\'s rating movie?</string>
+    <string name="erro_rating">Rating can\'t be blank</string>
+    <string name="lb_form_duration">What\'s your duration?</string>
+    <string name="erro_duration">Duration can\'t be blank</string>
+    <string name="sucesso_form">Movie saved successfully</string>
+    <string name="sucesso_edita_form">Movie updated successfully</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
